@@ -7,7 +7,6 @@ from rest_framework.response import Response
 from .models import SustainabilityAction
 from .serializers import SustainabilityActionSerializer
 
-JSON_FILE_PATH = '/Users/lindadexiaoaojiao/Desktop/API/sustainability_actions.json'  # Path to the JSON file
 
 class SustainabilityActionListCreateView(generics.ListCreateAPIView):
     queryset = SustainabilityAction.objects.all()
