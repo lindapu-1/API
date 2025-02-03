@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "action": "Recycle",
+        "date": "2025-02-03",
+        "points": 20
+    },
+    {
+        "id": 2,
+        "action": "Combustion",
+        "date": "2025-02-03",
+        "points": 30
+    }
+]
