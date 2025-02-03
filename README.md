@@ -19,10 +19,10 @@ This system manages and tracks sustainability actions. The API supports creating
 If you have previous records stored in a JSON file, you should retrieve them to the database first by running:
 
 ```bash
-python retrieve_from_json.py
+python retreive_from_json.py
 ```
 
-This script will read the JSON file and insert the data into the database.
+This script will read the JSON file and insert the data into the database. The script use ex_data.json as example.
 
 ## Running the Server
 
