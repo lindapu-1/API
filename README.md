@@ -6,7 +6,7 @@ This system manages and tracks sustainability actions. The API supports creating
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/lindapu-1/API.git>
+   git clone https://github.com/lindapu-1/API.git
    cd sustain
    ```
 2. Run migrations:
